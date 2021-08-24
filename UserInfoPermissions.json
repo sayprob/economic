@@ -17,7 +17,7 @@
             }
         ,
             {
-                "Name":"Engagement",
+                "Name":"Reste à payer",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":1,
                 "Consulter":0,
@@ -32,7 +32,7 @@
             }
         ,
             {
-                "Name":"Engagement",
+                "Name":"Programmes",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":1,
                 "Consulter":0,
@@ -46,7 +46,7 @@
             }
         ,
             {
-                "Name":"Engagement",
+                "Name":"Crédit ouvert",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":1,
                 "Consulter":0,
@@ -61,7 +61,7 @@
             }
         ,
             {
-                "Name":"Engagement",
+                "Name":"Recettes",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -76,7 +76,7 @@
             }
       ,
             {
-                "Name":"Engagement",
+                "Name":"OP",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -91,7 +91,7 @@
             }
         ,
             {
-                "Name":"Engagement",
+                "Name":"BE",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -106,7 +106,7 @@
             },
         
             {
-                "Name":"Engagement",
+                "Name":"Rejets",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -121,7 +121,7 @@
             },
         
             {
-                "Name":"Engagement",
+                "Name":"Chèques",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -136,7 +136,7 @@
             }
         ,
             {
-                "Name":"Engagement",
+                "Name":"OV",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -150,7 +150,7 @@
                 
             }
         ,
-            {"Name":"Engagement",
+            {"Name":"OV TGR",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -164,7 +164,7 @@
                 
             },
         
-            {"Name":"Engagement",
+            {"Name":"Marchés",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -178,7 +178,7 @@
                 
             }
        ,
-            {"Name":"Engagement",
+            {"Name":"Décomptes",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -192,7 +192,7 @@
                 
             }
        ,
-            {"Name":"Engagement",
+            {"Name":"Arrêts",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -206,7 +206,7 @@
                 
             }
        ,
-            {"Name":"Engagement",
+            {"Name":"Variations",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -220,7 +220,7 @@
                 
             }
         ,
-            {"Name":"Engagement",
+            {"Name":"Régies",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -234,7 +234,7 @@
                 
             },
         
-            {"Name":"Engagement",
+            {"Name":"Régie CO",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -248,7 +248,7 @@
                 
             }
         ,
-            {"Name":"Engagement",
+            {"Name":"Alimentation régie",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -262,7 +262,7 @@
                 
             }
         ,
-            {"Name":"Engagement",
+            {"Name":"Solde TGR",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -276,7 +276,7 @@
                 
             }
         ,
-            {"Name":"Engagement",
+            {"Name":"Utilisateurs",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -290,7 +290,7 @@
                 
             }
         ,
-            {"Name":"Engagement",
+            {"Name":"Etablissements",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -304,7 +304,7 @@
                 
             }
        ,
-            {"Name":"Engagement",
+            {"Name":"Rubriques",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -318,7 +318,7 @@
                 
             }
         ,
-            {"Name":"Nature_OP",
+            {"Name":"Nature OP",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
