@@ -249,15 +249,15 @@
             }
         ,
             {"Name":"Alimentation régie",
-                "Voir_tous_les_enreg":0,
-                "Voir_mes_enreg":0,
-                "Consulter":1
+                "Voir_tous_les_enreg":1,
+                "Voir_mes_enreg":1,
+                "Consulter":1,
                 "Ajouter":0,
                 "Modifier":0,
                 "Supprimer":0,
-                "Imprimer":1
-                "Transferer":0,
-                "Telecharger":0,
+                "Imprimer":1,
+                "Transferer":1,
+                "Telecharger":1,
                 "Verrouiller":0
                 
             }
