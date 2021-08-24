@@ -361,11 +361,11 @@
             }
         ,
             {"Name":"Exercices",
-                "Voir_tous_les_enreg":0,
+                "Voir_tous_les_enreg":1,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
                 "Ajouter":0,
-                "Modifier":0,
+                "Modifier":1,
                 "Supprimer":0,
                 "Imprimer":0,
                 "Transferer":0,
