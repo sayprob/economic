@@ -1,5 +1,14 @@
 [
     {
+        "UserInfo":[{
+            "Nom": "Achegri Mohamed",
+            "Login": "test@gmail.com",
+            "Role": "Admin",
+            "En_service": "Oui"
+          }
+        ]
+    }
+    ,{
         "permission": [
             {
                 "Name":"Engagement",
