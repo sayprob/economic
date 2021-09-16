@@ -1,777 +1,435 @@
-[{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "shanna@melissa.tv",
-    "phone": "010-692-6593 x09125"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "nathan@yesenia.net",
-    "phone": "1-463-123-4447"
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "julianne@kory.org",
-    "phone": "493-170-9623 x156"
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "lucio@annie.ca",
-    "phone": "(254)954-1289"
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis",
-    "email": "karley@jasper.info",
-    "phone": "1-477-935-8478 x6430"
-  },{
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "sincere@april.biz",
-    "phone": "1-770-736-8031 x56442"
-  }
+[
+    {
+        "UserInfo":[{
+            "UserNom": "Achegri Mohamed",
+            "Login": "test@gmail.com",
+            "Role": "Admin",
+            "En_service": "Oui"
+          }
+        ]
+    }
+    ,{
+        "permission": [
+            {
+                "permissionNom":"Engagement",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":1,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":1
+
+                
+            }
+        ,
+            {
+                "permissionNom":"Reste à payer",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":1,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":1
+                
+            }
+        ,
+            {
+                "permissionNom":"Programmes",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":1,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":0
+            }
+        ,
+            {
+                "permissionNom":"Crédit ouvert",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":1,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":0
+                
+            }
+        ,
+            {
+                "permissionNom":"Recettes",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+      ,
+            {
+                "permissionNom":"OP",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {
+                "permissionNom":"BE",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            },
+        
+            {
+                "permissionNom":"Rejets",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            },
+        
+            {
+                "permissionNom":"Chèques",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {
+                "permissionNom":"OV",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"permissionNom":"OV TGR",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            },
+        
+            {"permissionNom":"Marchés",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+       ,
+            {"permissionNom":"Décomptes",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+       ,
+            {"permissionNom":"Arrêts",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+       ,
+            {"permissionNom":"Variations",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"permissionNom":"Régies",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            },
+        
+            {"permissionNom":"Régie CO",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"permissionNom":"Alimentation régie",
+                "Voir_tous_les_enreg":1,
+                "Voir_mes_enreg":1,
+                "Consulter":1,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":1,
+                "Transferer":1,
+                "Telecharger":1,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"permissionNom":"Solde TGR",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"permissionNom":"Utilisateurs",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"permissionNom":"Etablissements",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+       ,
+            {"permissionNom":"Rubriques",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"permissionNom":"Nature OP",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"permissionNom":"Préstations",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"permissionNom":"Type_recette",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"permissionNom":"Exercices",
+                "Voir_tous_les_enreg":1,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":1,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+        ]
+    }
+    ,{
+        "etablissements": [
+            {
+                "etablissementsNom":"Ecole Nationale de Commerce et de Gestion Agadir (ENCGA1)"
+            },
+            {
+                "etablissementsNom":"Ecole Nationale des Sciences Appliquées Agadir (ENSA)"
+            },
+            {
+                "etablissementsNom":"Ecole Supérieure de Technologie d'Agadir (ESTA)"
+            },
+            {
+                "etablissementsNom":"Faculté des Lettres et des Sciences Humaines Agadir (FLSH)"
+            },
+            {
+                "etablissementsNom":"Faculté Polydisciplinaire Ouarzazate (FPO)"
+            },
+            {
+                "etablissementsNom":"Faculté Polydisciplinaire Taroudant (FPT)"
+            },
+            {
+                "etablissementsNom":"Faculté des Sciences Agadir (FSA)"
+            },
+            {
+                "etablissementsNom":"Faculté des Sciences Juridiques, Economiques et Sociales Agadir (FSJESA)"
+            },
+            {
+                "etablissementsNom":"Présidence de l'Université Ibn Zohr (PUIZ)"
+            }
+        
+        ]
+    },
+    {
+        "budgets": [
+            {
+                "budgetsNom":"Fonctionnement"
+            },
+            {
+                "budgetsNom":"Hors budget"
+            },
+            {
+                "budgetsNom":"Investissement"
+            }
+        ]
+    }
+        
+   
 ]
