@@ -7,8 +7,7 @@
             "En_service": "Oui"
           }
         ]
-    }
-    ,{
+    ,
         "permission": [
             {
                 "permissionNom":"Engagement",
@@ -384,8 +383,7 @@
                 
             }
         ]
-    }
-    ,{
+    ,
         "etablissements": [
             {
                 "etablissementsNom":"Ecole Nationale de Commerce et de Gestion Agadir (ENCGA1)"
@@ -416,8 +414,7 @@
             }
         
         ]
-    },
-    {
+    ,
         "budgets": [
             {
                 "budgetsNom":"Fonctionnement"
