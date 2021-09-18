@@ -16,8 +16,7 @@
 
                 
             }
-        ],
-        "permission": [
+        ,
             {
                 "Name":"Engagement",
                 "Voir_tous_les_enreg":0,
@@ -32,8 +31,7 @@
                 "Verrouiller":0
                 
             }
-        ],
-        "permission": [
+        ,
             {
                 "Name":"Engagement",
                 "Voir_tous_les_enreg":0,
@@ -47,8 +45,7 @@
                 "Télécharger":1,
                 "Verrouiller":0
             }
-        ],
-        "permission": [
+        ,
             {
                 "Name":"Engagement",
                 "Voir_tous_les_enreg":0,
@@ -63,7 +60,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {
                 "Name":"Engagement",
                 "Voir_tous_les_enreg":0,
@@ -78,7 +75,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {
                 "Name":"Engagement",
                 "Voir_tous_les_enreg":0,
@@ -93,7 +90,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {
                 "Name":"Engagement",
                 "Voir_tous_les_enreg":0,
@@ -108,7 +105,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {
                 "Name":"Engagement",
                 "Voir_tous_les_enreg":0,
@@ -123,7 +120,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {
                 "Name":"Engagement",
                 "Voir_tous_les_enreg":0,
@@ -138,7 +135,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {
                 "Name":"Engagement",
                 "Voir_tous_les_enreg":0,
@@ -153,7 +150,49 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
+            {"Name":"Engagement",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transférer":0,
+                "Télécharger":0,
+                "Verrouiller":0
+                
+            }
+       ,
+            {"Name":"Engagement",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transférer":0,
+                "Télécharger":0,
+                "Verrouiller":0
+                
+            }
+        ,
+            {"Name":"Engagement",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transférer":0,
+                "Télécharger":0,
+                "Verrouiller":0
+                
+            }
+        ,,
             {"Name":"Engagement",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
@@ -181,7 +220,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {"Name":"Engagement",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
@@ -195,7 +234,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {"Name":"Engagement",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
@@ -209,7 +248,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {"Name":"Engagement",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
@@ -223,7 +262,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {"Name":"Engagement",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
@@ -237,7 +276,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {"Name":"Engagement",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
@@ -251,7 +290,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {"Name":"Engagement",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
@@ -265,7 +304,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {"Name":"Engagement",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
@@ -279,49 +318,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
-            {"Name":"Engagement",
-                "Voir_tous_les_enreg":0,
-                "Voir_mes_enreg":0,
-                "Consulter":0,
-                "Ajouter":0,
-                "Modifier":0,
-                "Supprimer":0,
-                "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
-                "Verrouiller":0
-                
-            }
-        ],"permission": [
-            {"Name":"Engagement",
-                "Voir_tous_les_enreg":0,
-                "Voir_mes_enreg":0,
-                "Consulter":0,
-                "Ajouter":0,
-                "Modifier":0,
-                "Supprimer":0,
-                "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
-                "Verrouiller":0
-                
-            }
-        ],"permission": [
-            {"Name":"Engagement",
-                "Voir_tous_les_enreg":0,
-                "Voir_mes_enreg":0,
-                "Consulter":0,
-                "Ajouter":0,
-                "Modifier":0,
-                "Supprimer":0,
-                "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
-                "Verrouiller":0
-                
-            }
-        ],"permission": [
+        ,
             {"Name":"Nature_OP",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
@@ -335,7 +332,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {"Name":"Préstations",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
@@ -349,7 +346,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {"Name":"Type_recette",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
@@ -363,7 +360,7 @@
                 "Verrouiller":0
                 
             }
-        ],"permission": [
+        ,
             {"Name":"Exercices",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
