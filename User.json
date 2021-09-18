@@ -1,8 +1,7 @@
-[
-    {
+{
         "permission": [
             {
-                "Name":"Engagement",
+                "permissionNom":"Engagement",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":1,
                 "Consulter":0,
@@ -10,15 +9,15 @@
                 "Modifier":1,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":1,
-                "Verrouiller":0
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":1
 
                 
             }
         ,
             {
-                "Name":"Engagement",
+                "permissionNom":"Reste à payer",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":1,
                 "Consulter":0,
@@ -26,14 +25,14 @@
                 "Modifier":1,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":1,
-                "Verrouiller":0
+                "Transferer":0,
+                "Telecharger":1,
+                "Verrouiller":1
                 
             }
         ,
             {
-                "Name":"Engagement",
+                "permissionNom":"Programmes",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":1,
                 "Consulter":0,
@@ -41,13 +40,13 @@
                 "Modifier":1,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":1,
+                "Transferer":0,
+                "Telecharger":1,
                 "Verrouiller":0
             }
         ,
             {
-                "Name":"Engagement",
+                "permissionNom":"Crédit ouvert",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":1,
                 "Consulter":0,
@@ -55,14 +54,14 @@
                 "Modifier":1,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":1,
+                "Transferer":0,
+                "Telecharger":1,
                 "Verrouiller":0
                 
             }
         ,
             {
-                "Name":"Engagement",
+                "permissionNom":"Recettes",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -70,14 +69,29 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+      ,
+            {
+                "permissionNom":"OP",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
             }
         ,
             {
-                "Name":"Engagement",
+                "permissionNom":"BE",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -85,14 +99,44 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            },
+        
+            {
+                "permissionNom":"Rejets",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            },
+        
+            {
+                "permissionNom":"Chèques",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
             }
         ,
             {
-                "Name":"Engagement",
+                "permissionNom":"OV",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -100,14 +144,13 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
             }
         ,
-            {
-                "Name":"Engagement",
+            {"permissionNom":"OV TGR",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -115,14 +158,13 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
-            }
-        ,
-            {
-                "Name":"Engagement",
+            },
+        
+            {"permissionNom":"Marchés",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -130,42 +172,13 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
-                "Verrouiller":0
-                
-            }
-        ,
-            {
-                "Name":"Engagement",
-                "Voir_tous_les_enreg":0,
-                "Voir_mes_enreg":0,
-                "Consulter":0,
-                "Ajouter":0,
-                "Modifier":0,
-                "Supprimer":0,
-                "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
-                "Verrouiller":0
-                
-            }
-        ,
-            {"Name":"Engagement",
-                "Voir_tous_les_enreg":0,
-                "Voir_mes_enreg":0,
-                "Consulter":0,
-                "Ajouter":0,
-                "Modifier":0,
-                "Supprimer":0,
-                "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
             }
        ,
-            {"Name":"Engagement",
+            {"permissionNom":"Décomptes",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -173,13 +186,41 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+       ,
+            {"permissionNom":"Arrêts",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+       ,
+            {"permissionNom":"Variations",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
             }
         ,
-            {"Name":"Engagement",
+            {"permissionNom":"Régies",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -187,13 +228,13 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
-            }
-        ,,
-            {"Name":"Engagement",
+            },
+        
+            {"permissionNom":"Régie CO",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -201,41 +242,27 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
-                "Verrouiller":0
-                
-            }
-        ],"permission": [
-            {"Name":"Engagement",
-                "Voir_tous_les_enreg":0,
-                "Voir_mes_enreg":0,
-                "Consulter":0,
-                "Ajouter":0,
-                "Modifier":0,
-                "Supprimer":0,
-                "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
             }
         ,
-            {"Name":"Engagement",
-                "Voir_tous_les_enreg":0,
-                "Voir_mes_enreg":0,
-                "Consulter":0,
+            {"permissionNom":"Alimentation régie",
+                "Voir_tous_les_enreg":1,
+                "Voir_mes_enreg":1,
+                "Consulter":1,
                 "Ajouter":0,
                 "Modifier":0,
                 "Supprimer":0,
-                "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Imprimer":1,
+                "Transferer":1,
+                "Telecharger":1,
                 "Verrouiller":0
                 
             }
         ,
-            {"Name":"Engagement",
+            {"permissionNom":"Solde TGR",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -243,13 +270,13 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
             }
         ,
-            {"Name":"Engagement",
+            {"permissionNom":"Utilisateurs",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -257,13 +284,13 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
             }
         ,
-            {"Name":"Engagement",
+            {"permissionNom":"Etablissements",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -271,13 +298,27 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
+                "Verrouiller":0
+                
+            }
+       ,
+            {"permissionNom":"Rubriques",
+                "Voir_tous_les_enreg":0,
+                "Voir_mes_enreg":0,
+                "Consulter":0,
+                "Ajouter":0,
+                "Modifier":0,
+                "Supprimer":0,
+                "Imprimer":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
             }
         ,
-            {"Name":"Engagement",
+            {"permissionNom":"Nature OP",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -285,13 +326,13 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
             }
         ,
-            {"Name":"Engagement",
+            {"permissionNom":"Préstations",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -299,13 +340,13 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
             }
         ,
-            {"Name":"Engagement",
+            {"permissionNom":"Type_recette",
                 "Voir_tous_les_enreg":0,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
@@ -313,67 +354,25 @@
                 "Modifier":0,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
             }
         ,
-            {"Name":"Nature_OP",
-                "Voir_tous_les_enreg":0,
+            {"permissionNom":"Exercices",
+                "Voir_tous_les_enreg":1,
                 "Voir_mes_enreg":0,
                 "Consulter":0,
                 "Ajouter":0,
-                "Modifier":0,
+                "Modifier":1,
                 "Supprimer":0,
                 "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
-                "Verrouiller":0
-                
-            }
-        ,
-            {"Name":"Préstations",
-                "Voir_tous_les_enreg":0,
-                "Voir_mes_enreg":0,
-                "Consulter":0,
-                "Ajouter":0,
-                "Modifier":0,
-                "Supprimer":0,
-                "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
-                "Verrouiller":0
-                
-            }
-        ,
-            {"Name":"Type_recette",
-                "Voir_tous_les_enreg":0,
-                "Voir_mes_enreg":0,
-                "Consulter":0,
-                "Ajouter":0,
-                "Modifier":0,
-                "Supprimer":0,
-                "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
-                "Verrouiller":0
-                
-            }
-        ,
-            {"Name":"Exercices",
-                "Voir_tous_les_enreg":0,
-                "Voir_mes_enreg":0,
-                "Consulter":0,
-                "Ajouter":0,
-                "Modifier":0,
-                "Supprimer":0,
-                "Imprimer":0,
-                "Transférer":0,
-                "Télécharger":0,
+                "Transferer":0,
+                "Telecharger":0,
                 "Verrouiller":0
                 
             }
         ]
-   }
-]
+    
+}
