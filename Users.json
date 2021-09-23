@@ -1,14 +1,13 @@
-
+[
    {
-      "Nom": "Griffin",
-      "Login": "test@gmail.com",
-      "Role": "Admin",
-      "En_service": "Oui"
-    },
-   {
-      "Nom": "Griffin2",
-      "Login": "test@gmail.com2",
-      "Role": "Admin2",
-      "En_service": "Oui2"
-    }
-
+    "Nom": "Griffin",
+    "Login": "test@gmail.com",
+    "Role": "Admin",
+    "En_service": "Oui"
+  },
+ {
+    "Nom": "Griffin2",
+    "Login": "test@gmail.com2",
+    "Role": "Admin2",
+    "En_service": "Oui2"
+  }]
