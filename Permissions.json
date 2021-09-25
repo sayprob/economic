@@ -1,5 +1,4 @@
-[{"permission": [
-    {
+[{
         "Name":"Engagement",
         "Voir_tous_les_enreg":0,
         "Voir_mes_enreg":1,
@@ -370,8 +369,4 @@
         "Transferer":0,
         "Telecharger":0,
         "Verrouiller":0
-        
     }]
-
-    }
-]
