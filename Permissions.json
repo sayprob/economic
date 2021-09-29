@@ -369,4 +369,90 @@
         "Transferer":0,
         "Telecharger":0,
         "Verrouiller":0
+    },
+    {
+        "Name":"Engagement ouvert ouvert",
+        "Voir_tous_les_enreg":0,
+        "Voir_mes_enreg":1,
+        "Consulter":1,
+        "Ajouter":0,
+        "Modifier":1,
+        "Supprimer":0,
+        "Imprimer":1,
+        "Transferer":1,
+        "Telecharger":1,
+        "Verrouiller":0
+    }
+,
+    {
+        "Name":"Crédit ouvert",
+        "Voir_tous_les_enreg":1,
+        "Voir_mes_enreg":1,
+        "Consulter":1,
+        "Ajouter":0,
+        "Modifier":1,
+        "Supprimer":0,
+        "Imprimer":1,
+        "Transferer":0,
+        "Telecharger":1,
+        "Verrouiller":1
+        
+    }
+,
+    {
+        "Name":"ouvert",
+        "Voir_tous_les_enreg":1,
+        "Voir_mes_enreg":1,
+        "Consulter":1,
+        "Ajouter":0,
+        "Modifier":1,
+        "Supprimer":1,
+        "Imprimer":0,
+        "Transferer":1,
+        "Telecharger":1,
+        "Verrouiller":0
+        
+    },
+    {
+        "Name":"Engagement ouvert ouvert",
+        "Voir_tous_les_enreg":0,
+        "Voir_mes_enreg":1,
+        "Consulter":1,
+        "Ajouter":0,
+        "Modifier":1,
+        "Supprimer":0,
+        "Imprimer":1,
+        "Transferer":1,
+        "Telecharger":1,
+        "Verrouiller":0
+    }
+,
+    {
+        "Name":"Crédit ouvert",
+        "Voir_tous_les_enreg":1,
+        "Voir_mes_enreg":1,
+        "Consulter":1,
+        "Ajouter":0,
+        "Modifier":1,
+        "Supprimer":0,
+        "Imprimer":1,
+        "Transferer":0,
+        "Telecharger":1,
+        "Verrouiller":1
+        
+    }
+,
+    {
+        "Name":"ouvert",
+        "Voir_tous_les_enreg":1,
+        "Voir_mes_enreg":1,
+        "Consulter":1,
+        "Ajouter":0,
+        "Modifier":1,
+        "Supprimer":1,
+        "Imprimer":0,
+        "Transferer":1,
+        "Telecharger":1,
+        "Verrouiller":0
+        
     }]
